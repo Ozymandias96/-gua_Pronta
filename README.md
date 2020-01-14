@@ -31,5 +31,5 @@ The Android client will allow you to understand the state of the kettle (ready f
 
 
 
-This project was a group project from the class Sistemas Embutidos, where i was responsible for the implementation of the Arduino system.
+This project was a group project for the class of Sistemas Embutidos, where i was responsible for the implementation of the Arduino system.
 I had to collect data from sensors and connect to the Raspberry Pi server to be able to provide the data.
