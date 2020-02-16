@@ -1,6 +1,6 @@
 # Agua_Pronta
 To make tea we need to put water in a kettle and then wait for the water in the kettle to boil. 
-In this project we inteded to start this process remotely.
+In this project we wanted to start this process remotely.
 
 The system must monitor the water level. 
 When commanded to do so, the water heating must be started by the system and its completion detected.
